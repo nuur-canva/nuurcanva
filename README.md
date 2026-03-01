@@ -1,6 +1,4 @@
-# :
-
-👋 Hey there!
+# 👋 Hey there!
 
 I'm Nor, a Networking and Security enthusiast.
 
